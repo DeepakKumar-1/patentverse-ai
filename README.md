@@ -2,7 +2,7 @@
 
 **Multi-agent patent search & prior-art analysis system**, built with **Google Agent Development Kit (ADK)** and **Gemini**.
 
-Submitted for the *Kaggle AI Agents: Intensive Vibe Coding Capstone* — **Agents for Business** track.
+Submitted for the *Kaggle AI Agents: Intensive Vibe Coding Capstone* - **Agents for Business** track.
 
 ---
 
