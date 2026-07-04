@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.vscode/
+*.egg-info/
+.DS_Store
+dist/
+build/
+.adk_sessions/

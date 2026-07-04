@@ -1,0 +1,58 @@
+[
+  {
+    "patent_id": "US10987654B2",
+    "title": "Wearable hydration tracking device with load-cell sensor",
+    "assignee": "HydroTech Inc.",
+    "date": "2019-03-12",
+    "abstract": "A portable container fitted with a load-cell sensor to measure liquid consumption over time, wirelessly transmitting data to a companion mobile application for hydration tracking and reminders."
+  },
+  {
+    "patent_id": "US11123456B2",
+    "title": "Smart bottle cap with Bluetooth connectivity and consumption analytics",
+    "assignee": "AquaSense LLC",
+    "date": "2020-07-01",
+    "abstract": "A bottle cap assembly comprising a pressure sensor and Bluetooth Low Energy module configured to estimate liquid volume consumed and sync data to a smartphone app for daily hydration goal tracking."
+  },
+  {
+    "patent_id": "US20210041234A1",
+    "title": "Method and system for gamified hydration reminders using mobile notifications",
+    "assignee": "WellSpring Digital",
+    "date": "2021-02-18",
+    "abstract": "A software method for generating gamified reminders and rewards based on tracked liquid intake data received from a connected drinking vessel, encouraging users to meet daily hydration targets."
+  },
+  {
+    "patent_id": "US9857654B1",
+    "title": "Portable container with integrated weight-based fluid level sensing",
+    "assignee": "NutriFlow Corp.",
+    "date": "2017-11-05",
+    "abstract": "A drinking container integrating a strain-gauge based weight sensor at its base to continuously estimate remaining fluid volume, with an onboard display for real-time feedback."
+  },
+  {
+    "patent_id": "US11245123B2",
+    "title": "AI-based crop irrigation scheduling using soil moisture sensors",
+    "assignee": "AgroSense Technologies",
+    "date": "2021-09-22",
+    "abstract": "A system for optimizing irrigation schedules for agricultural fields using machine learning models trained on soil moisture, weather, and crop-type data, deployed via edge sensors in the field."
+  },
+  {
+    "patent_id": "US10456789B2",
+    "title": "Automated expense report classification using natural language processing",
+    "assignee": "FinFlow Systems",
+    "date": "2018-05-14",
+    "abstract": "A method for automatically classifying and flagging anomalous expense report line items using NLP models trained on historical corporate expense data."
+  },
+  {
+    "patent_id": "US11334455B2",
+    "title": "Multi-agent orchestration system for automated customer support workflows",
+    "assignee": "ServiceMesh AI",
+    "date": "2022-01-10",
+    "abstract": "A system comprising multiple cooperating software agents, each specialized for a subtask (intake, classification, resolution), coordinated by an orchestrator agent to resolve customer support tickets end to end."
+  },
+  {
+    "patent_id": "US20220198877A1",
+    "title": "Secure tool-calling framework for large language model agents",
+    "assignee": "OpenAgent Labs",
+    "date": "2022-06-30",
+    "abstract": "A framework for validating and rate-limiting tool invocations made by an autonomous language-model-driven agent, including sandboxing and permission scoping to prevent unauthorized actions."
+  }
+]
