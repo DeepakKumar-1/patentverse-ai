@@ -175,6 +175,3 @@ docker compose up --build
 - Analysis is a first-pass business signal, **not legal advice** — a licensed patent attorney should always review before filing.
 - Future work: add a `DraftingAgent` to help write claims, and a `MonitoringAgent` that watches for newly published competing patents.
 
-## 9. License
-
-MIT — see `LICENSE`.
