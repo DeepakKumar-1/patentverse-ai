@@ -12,7 +12,7 @@ Filing a patent without a solid prior-art search is expensive and risky. Busines
 - Pay $2,000–$10,000+ per search to patent attorneys / search firms, or
 - Skip proper prior-art analysis and risk rejection, litigation, or wasted R&D spend.
 
-**PatentVerse AI** automates the first-pass prior-art search and novelty analysis, turning a task that takes days into a task that takes minutes — giving businesses a fast, defensible starting point before they talk to a patent attorney.
+**PatentVerse AI** automates the initial prior-art search and novelty analysis, helping users identify similar patents much faster before consulting a patent attorney.
 
 ## 2. Solution
 
@@ -38,8 +38,8 @@ PatentVerse AI is a **3-agent pipeline** orchestrated with Google ADK:
 ```
 
 - **Search Agent** — takes the invention description, generates search queries, calls the `search_patents` tool to pull candidate prior-art patents.
-- **Analysis Agent** — reads the candidate patents and scores each for overlap/novelty risk against the user's invention, in plain business language.
-- **Report Agent** — compiles everything into a structured business-ready report: risk level, closest prior art, recommended next steps.
+- **Analysis Agent** — compares the retrieved patents with the user's invention and estimates the novelty risk.
+- **Report Agent** — generates a structured summary containing the retrieved patents, novelty assessment, and recommendations.
 
 Every candidate patent returned always includes its **publication date**, and searches can optionally be restricted to a **date range** (e.g. "only patents from 2015 to 2024") via the CLI `--from`/`--to` flags, the web UI's date fields, or the `date_from`/`date_to` MCP tool parameters.
 
